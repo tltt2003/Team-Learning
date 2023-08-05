@@ -1,0 +1,89 @@
+* {
+    font-family: "Open Sans";
+
+body {
+    position: relative;
+    display: inline-flex;
+}
+  }
+  span {
+    color: var(--white, #fff);
+  
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  p {
+    padding: 0px;
+    margin-top: 0px;
+    color: var(--white, #fff);
+  
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-bottom: 35px;
+  }
+  .dak .dark .picture {
+    box-sizing: border-box;
+    flex-shrink: 0;
+  }
+  .dak .dark_form {
+    margin-top: 72px;
+    margin-left: 40px;
+    margin-right: 10%;
+  }
+  .dak .dark {
+
+    display: flex;
+    margin-bottom: 64px;
+    height: 184px;
+    width: 660px;
+    border-radius: 16px;
+    background: var(
+      --cards-1-dark-background,
+      linear-gradient(90deg, #25335a 0%, #141824 100%)
+    );
+  }
+  .dak {
+    float: left
+  }
+ .light span {
+    position: ;
+    color: #B65741;
+    font-size: 24px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: normal;    
+}
+.light p {
+    padding: 0;
+    margin-top: 0;
+    color: #AD4328;
+    font-size: 32px;
+    font-weight: 600;
+    font-style: normal;
+    line-height: normal;
+}
+.light .light-pic {
+    box-sizing: border-box;
+    flex-shrink: 0;
+    margin-right: -29px;
+}
+.light .light-form {
+    margin-top: 72px;
+    margin-left: 40px;
+    margin-bottom: 35px;
+}
+.lai .light {
+    width: 660px;
+    height: 184px;
+    display: flex;
+    flex-shrink: 0;
+
+    margin-bottom: 64px;
+    margin-top: 
+    border-radius: 16px;
+    background: var(--white, #FFF);
+}

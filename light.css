@@ -10,7 +10,6 @@ span {
     line-height: normal;    
 }
 p {
-    position: absolute;
     padding: 0;
     margin-top: 0;
     color: #AD4328;
@@ -30,11 +29,11 @@ p {
     margin-bottom: 35px;
 }
 .light {
-    position: relative;
     width: 660px;
     height: 184px;
     display: flex;
     flex-shrink: 0;
+    margin-left: 700px;
     margin-bottom: 64px;
     border-radius: 16px;
     background: var(--white, #FFF);
